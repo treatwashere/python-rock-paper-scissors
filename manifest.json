@@ -1,0 +1,10 @@
+{
+  "entrypoint": "main.py",
+  "items": [
+    {
+      "kind": "file",
+      "id": "efbb521d-6a0f-445a-983b-392aef6e0102",
+      "name": "main.py"
+    }
+  ]
+}
