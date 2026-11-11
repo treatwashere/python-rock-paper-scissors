@@ -52,7 +52,7 @@ while move != 3:
     elif comp == player:
         text = "Both win"
     else:
-        text = "I don't know this move."
+        text = "I didn't expect this."
     
     print(move)
     print("🙂:",player_score)
